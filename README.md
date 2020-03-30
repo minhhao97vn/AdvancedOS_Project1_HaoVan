@@ -34,10 +34,4 @@ This experiments:
 <h2><b>Analysis of results</b></h2>
 The running time and system profiling were recorded and there are two types of information: for running algorithm only and running program.
 
-![run_time_algo](https://i.imgur.com/DMSW02R.png)
-![run_time_program](https://i.imgur.com/mOnWprA.png)
-![cpu_perc](https://i.imgur.com/6enNfzl.png)
-![rss_vms_algo](https://i.imgur.com/EPoawdt.png)
-![rss_vms_program](https://i.imgur.com/D8hnQPj.png)
-![pf_pi_algo](https://i.imgur.com/Lcdb4Hf.png)
-![pf_pi_program](https://i.imgur.com/gBXYVvx.png)
+![run_time_algo](https://i.imgur.com/DMSW02R.png) ![run_time_program](https://i.imgur.com/mOnWprA.png) ![cpu_perc](https://i.imgur.com/6enNfzl.png)  ![rss_vms_algo](https://i.imgur.com/EPoawdt.png) ![rss_vms_program](https://i.imgur.com/D8hnQPj.png) ![pf_pi_algo](https://i.imgur.com/Lcdb4Hf.png) ![pf_pi_program](https://i.imgur.com/gBXYVvx.png)
