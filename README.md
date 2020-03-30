@@ -43,12 +43,12 @@ The running time of whole programs (including time for loading data, package, ex
 
 ![cpu_perc](https://i.imgur.com/6enNfzl.png)  
 
-Both algorithms had high usages of CPU when running on both alone and concurrently mode.
+Both algorithms had high usages of CPU when running on both alone and concurrently mode. <br>
 
 ![rss_vms_algo](https://i.imgur.com/EPoawdt.png) ![rss_vms_program](https://i.imgur.com/D8hnQPj.png) 
 
 The RSSs and VMSs for running algorithm only are really small in chart "RSS and VMS for running algorithm". In the concurrent mode, the VMS of jump_concurrent is near to 0. 
-
+<br>
 ![pf_pi_algo](https://i.imgur.com/Lcdb4Hf.png) ![pf_pi_program](https://i.imgur.com/gBXYVvx.png)
 
 In the chart "Pagefaults and pageins for running algorithm", we can easily observe that Jump search algorithm had high number of page fault when running in both alone and concurrent mode and this number is much higher than the number from Fibonacci search. The number of page faults in concurrent mode is not much different from the number in alone mode.
