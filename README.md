@@ -9,11 +9,11 @@
 <h2><b>Guidelines</b><br></h2>
  There are 5 python file in the project: 
 <ul>
-  <li><b>fibonacci_search.py</b>: run and get process information of Fibonacci search algorithm.
-  <li><b>jump_search.py</b>: run and get process information of Jump search algorithm.
-  <li><b>fibonacci_jump_concurrent.py</b>: run and get process information of Fibonacci search and Jump search algorithm concurrently.
-  <li><b>generating_data.py</b>: generate input data before running algorithms. 
-  <li><b>visulization.py</b>: visualize the information from system. 
+  <li><b>fibonacci_search.py</b>: run and get process information of Fibonacci search algorithm.</li>
+  <li><b>jump_search.py</b>: run and get process information of Jump search algorithm.</li>
+  <li><b>fibonacci_jump_concurrent.py</b>: run and get process information of Fibonacci search and Jump search algorithm concurrently.</li>
+  <li><b>generating_data.py</b>: generate input data before running algorithms. </li>
+  <li><b>visualization.py</b>: visualize the information from system. </li>
 </ul>
 Steps to run the source code:
 <ul>
