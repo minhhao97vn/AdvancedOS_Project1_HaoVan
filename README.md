@@ -34,4 +34,12 @@ This experiments:
 <h2><b>Analysis of results</b></h2>
 The running time and system profiling were recorded and there are two types of information: for running algorithm only and running program.
 
-![run_time_algo](https://i.imgur.com/DMSW02R.png) ![run_time_program](https://i.imgur.com/mOnWprA.png) ![cpu_perc](https://i.imgur.com/6enNfzl.png)  ![rss_vms_algo](https://i.imgur.com/EPoawdt.png) ![rss_vms_program](https://i.imgur.com/D8hnQPj.png) ![pf_pi_algo](https://i.imgur.com/Lcdb4Hf.png) ![pf_pi_program](https://i.imgur.com/gBXYVvx.png)
+![run_time_algo](https://i.imgur.com/DMSW02R.png) ![run_time_program](https://i.imgur.com/mOnWprA.png) 
+
+From the charts "Running time for algorithm only", we can observe that both two searching algorithms have good running time (<= 0.012 second) with large number of elements in array (~50 millions) but Fibonacci search algorithm has better running time in both running alone and running concurrently condition. This is make sense because Fibonacci search has O(log(n)) complexity and Jump search has O(sqrt(n)).
+
+The running time of whole programs (including time for loading data, package, executing algorithm, ...) are similar when running alone and Fibonacci search is higher when running concurrently. When running concurrently, the Fibonacci search maybe the program which load the data first, so the difference maybe come from IO time.
+
+![cpu_perc](https://i.imgur.com/6enNfzl.png)  
+
+![rss_vms_algo](https://i.imgur.com/EPoawdt.png) ![rss_vms_program](https://i.imgur.com/D8hnQPj.png) ![pf_pi_algo](https://i.imgur.com/Lcdb4Hf.png) ![pf_pi_program](https://i.imgur.com/gBXYVvx.png)
