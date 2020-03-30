@@ -28,7 +28,7 @@ Steps to run the source code:
 <h2><b>Experiment</b></h2>
 This experiments:
 <ul>
-  <li>Data: Array contains 49,995,386 integers which have values from 0 to 100,000,000 and target number is 81,905,004. File <b>input.json</b>.
+  <li>Data: Array contains 49,995,386 integers which have values from 0 to 100,000,000 and target number is 81,905,004. File <b>input.json</b>.</li>
   <li>Hardware: Macbook Pro 2019, macOS Catalina, processor: 2.3GHz 8-Core Intel Core I9, RAM: 16GB.</li>
 </ul>
 <h2><b>Analysis of results</b></h2>
