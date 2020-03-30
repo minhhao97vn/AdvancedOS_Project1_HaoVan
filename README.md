@@ -32,6 +32,7 @@ This experiments:
   <li>Hardware: Macbook Pro 2019, macOS Catalina, processor: 2.3GHz 8-Core Intel Core I9, RAM: 16GB.</li>
 </ul>
 <h2><b>Analysis of results</b></h2>
+The running time and system profiling were recorded and there are two types of information: for running algorithm only and running program.
 
 ![run_time_algo](https://i.imgur.com/DMSW02R.png)
 ![run_time_program](https://i.imgur.com/mOnWprA.png)
