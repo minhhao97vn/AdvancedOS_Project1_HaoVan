@@ -43,4 +43,10 @@ The running time of whole programs (including time for loading data, package, ex
 
 ![cpu_perc](https://i.imgur.com/6enNfzl.png)  
 
-![rss_vms_algo](https://i.imgur.com/EPoawdt.png) ![rss_vms_program](https://i.imgur.com/D8hnQPj.png) ![pf_pi_algo](https://i.imgur.com/Lcdb4Hf.png) ![pf_pi_program](https://i.imgur.com/gBXYVvx.png)
+Both algorithms had high usages of CPU when running on both alone and concurrently mode.
+
+![rss_vms_algo](https://i.imgur.com/EPoawdt.png) ![rss_vms_program](https://i.imgur.com/D8hnQPj.png) 
+
+
+
+![pf_pi_algo](https://i.imgur.com/Lcdb4Hf.png) ![pf_pi_program](https://i.imgur.com/gBXYVvx.png)
