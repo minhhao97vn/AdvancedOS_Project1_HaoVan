@@ -25,6 +25,7 @@ Steps to run the source code:
   <li>Run <b>fibonacci_jump_concurrent.py</b>, information will be printed on the terminal and a .json file.</li>
   <li>Run <b>visualization.py</b>, charts will be showed so as to help user analyze the information.</li>
 </ul>
+
 <h2><b>Experiment</b></h2>
 This experiments:
 <ul>
